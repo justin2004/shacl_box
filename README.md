@@ -11,6 +11,8 @@
 
 ### using the examples in this repo
 
+- cd to this repo's directory
+
 - to derive triples
 ```
 docker run --rm -it -v `pwd`:/mnt justin2004/shacl_box ./shaclinfer.sh -datafile /mnt/examples/data.ttl -shapesfile /mnt/examples/shapes.ttl
