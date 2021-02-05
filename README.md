@@ -4,6 +4,14 @@
     - shacl used to just be about validation but with [this](https://w3c.github.io/shacl/shacl-af/) you can now do some inference
 
 
+### why
+
+- in case you want to play around with shacl quickly
+    - https://shacl.org/playground/ does not support the advanced features yet
+
+
+### how
+
 ### preparation
 
 - you need docker and make installed 
