@@ -26,7 +26,6 @@ docker run --rm -it -v `pwd`:/mnt justin2004/shacl_box ./shaclvalidate.sh -dataf
 
 - cd to the directory with your turtle files
 
-- 
 ```
 docker run --rm -it -v `pwd`:/mnt justin2004/shacl_box ./shaclvalidate.sh -datafile /mnt/your-data.ttl -shapesfile /mnt/your-shapes.ttl
 ```
