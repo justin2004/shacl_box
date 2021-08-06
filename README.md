@@ -7,7 +7,7 @@
 ### why
 
 - in case you want to play around with shacl quickly
-    - https://shacl.org/playground/ does not support the advanced features yet
+    - https://shacl.org/playground/ does not support the advanced features yet but this project does
 
 
 ### how
@@ -15,6 +15,7 @@
 ### preparation
 
 - you need docker and make installed 
+- clone this git repo and cd into it
 - build the docker image with `make`
 
 ### using the examples in this repo
